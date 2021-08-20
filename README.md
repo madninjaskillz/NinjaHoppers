@@ -30,7 +30,7 @@ The recipe is intentionally expensive. It partly mirrors the cost of a normal re
 
 The Netherite Hopper has 9 filter slots at the top and one inventory slot below this:
 
-![Netherite Hoppers User Interface](ReadMeImages/usage.png)
+![Netherite Hoppers User Interface](ReadMeImages/Usage.png)
 
 When the filter slots are empty, Netherite Hoppers behave like a normal hopper (with a limited inventory).
 
